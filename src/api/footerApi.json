@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "New Delhi, India"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9843555528"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@atlasbuddy.com"
+    }
+  ]
